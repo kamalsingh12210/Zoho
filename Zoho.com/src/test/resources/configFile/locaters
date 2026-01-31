@@ -1,0 +1,5 @@
+signin_link = Sign In
+email_fields = LOGIN_ID
+next_button = nextbtn
+pwd_field = PASSWORD
+login_next_button = nextbtn
